@@ -67,6 +67,3 @@ Lightmap-*.png*
 ReflectionProbe-*.exr*
 
 /dist
-
-*.asset
-*.asset
