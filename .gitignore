@@ -68,3 +68,5 @@ ReflectionProbe-*.exr*
 
 /dist
 
+*.asset
+*.asset
